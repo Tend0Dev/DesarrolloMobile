@@ -1,4 +1,4 @@
-import 'package:apuntes_clase/utilidades/lista_ropa.dart';
+import 'package:apuntes_clase/utilidades/productos.dart';
 import 'package:flutter/material.dart';
 
 class PaginaInicio extends StatefulWidget {
@@ -14,7 +14,7 @@ class _PaginaInicioState extends State<PaginaInicio> {
     return Scaffold(
       backgroundColor: Colors.grey[200],
       appBar: AppBar(
-        title: const Text('ROPA'),
+        title: const Text('Bienvenido'),
         backgroundColor: Colors.grey,
       ),
       body: ListView(

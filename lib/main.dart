@@ -1,4 +1,4 @@
-import 'package:apuntes_clase/screens/pagina_inicio.dart';
+import 'package:apuntes_clase/utilidades/productos.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,6 +11,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-        debugShowCheckedModeBanner: false, home: PaginaInicio());
+        debugShowCheckedModeBanner: false, home: ListaRopa());
   }
 }

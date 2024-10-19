@@ -1,6 +1,15 @@
 import 'package:apuntes_clase/utilidades/contenedor.dart';
 import 'package:flutter/material.dart';
 
+class Productos extends StatelessWidget {
+  const Productos({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const ListaRopa();
+  }
+}
+
 class ListaRopa extends StatelessWidget {
   const ListaRopa({super.key});
 
