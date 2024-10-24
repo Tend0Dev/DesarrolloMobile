@@ -6,4 +6,8 @@
 
 <p>imagen del la app</p>
 
-<img src="./imagenesDelProyecto/ssApp.jpg" alt="img" height="500px">
+<img src="./imagenesDelProyecto/productos.jpg" alt="img" height="500px">
+
+<p>imagen del los detalles de los productos</p>
+
+<img src="./imagenesDelProyecto/detallesProducto.jpg" alt="img" height="500px">
